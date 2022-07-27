@@ -1,0 +1,5 @@
+{ 
+    "clientId": "the client id of your spotify app",
+    "clientSecret": "the client secret of your spotify app",
+    "redirectUri" : "the redirect uri of your spotify app EXACT MATCH"
+}

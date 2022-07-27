@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.song {
+  background-color: #282c34;
+  border-radius: 10px;
+  color: #fff;
+  margin-bottom: 30px;
+  max-width: 15em;
+  padding: 20px;
+  min-height: 10em;
+  min-width: 13em;
+  max-height: 12em;
+}
+
+.song img { 
+  width: 64px;
+  height: auto;
+
+}
+
+.song a { 
+  color: white;
+  text-decoration: underline;
+}
+
+ul { 
+  padding: 0;
+}
+
+.recentSongs { 
+  margin: 30px;
+  max-width: 20em;
+  border-radius: 10px;
+  padding: 20px;
+}
+
